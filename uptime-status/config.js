@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://home.coolspace.us.kg/'
+      url: 'https://home.cool.cc.ua'
     },
     {
       text: '博客',
-      url: 'https://cool.com.mp/'
+      url: 'https://blog.coolspace.cc'
     },
   ],
 };
