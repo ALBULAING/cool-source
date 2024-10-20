@@ -19,17 +19,3 @@
 ```
 
 请将 `yourusername` 和 `your-repo-name` 替换为您的 GitHub 用户名和仓库名称。
-
-## 贡献
-
-如果您有任何建议或想要贡献新的静态资源，请随时提交 Pull Request。我们欢迎任何形式的贡献，以帮助这个仓库变得更好！
-
-## 联系方式
-
-如有任何问题或建议，请通过 GitHub Issues 联系我，或者发送电子邮件至 [your-email@example.com](mailto:your-email@example.com)。
-
-感谢您的访问和支持！希望这个仓库能为您的项目提供帮助！
-
----
-
-你可以根据自己的具体情况和需求，调整内容和格式。希望这个介绍能帮助你更好地展示你的 GitHub 仓库！
